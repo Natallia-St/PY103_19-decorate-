@@ -1,0 +1,3 @@
+
+2022-09-06 09:24:53,954 INFO:Func name and args: ('general_', [4, 2])
+2022-09-06 09:24:53,955 INFO:Result for func general_: 16
